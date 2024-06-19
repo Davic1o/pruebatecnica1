@@ -1,8 +1,8 @@
-import Login from "./app/pages/Login";
 
 function App() {
   return (
-    <Login/>
+    <>
+    </>
 
   );
 }
